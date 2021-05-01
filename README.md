@@ -13,6 +13,12 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the req
 pip install -r requirements.txt
 ```
 
+## Usage
+Simply run
+```bash
+main.py
+```
+
 ## Correlation Calculation
 A cool feature of ShellHN is calculating the correlation between a posts popularity to it's publish proximity to 8pm.
 
