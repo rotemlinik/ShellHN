@@ -1,1 +1,0 @@
-INFO:root:current coefficient: -0.03443788676645486
