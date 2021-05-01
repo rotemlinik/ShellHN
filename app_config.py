@@ -17,6 +17,6 @@ HN_BASE_URL = "https://hacker-news.firebaseio.com/v0/"
 TEST_OUTPUT_SIZE = 3
 
 # logging configuration
-logging.basicConfig(filename='ShellHN.txt')
+logging.basicConfig(filename='ShellHN.log')
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
